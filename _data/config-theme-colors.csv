@@ -1,6 +1,6 @@
 color_class,color
-primary,
-secondary,
+primary, black
+secondary, red
 success,
 info,
 warning,
