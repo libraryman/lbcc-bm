@@ -94,7 +94,7 @@ bootswatch: simplex
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#fff5f5"
+text-color: "#000000"
 link-color: "#0d6efd"
 base-font-family: simplex # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
