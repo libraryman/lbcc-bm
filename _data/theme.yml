@@ -13,6 +13,7 @@ featured-image: https://www.lbcc.edu/sites/main/files/imagecache/medium/main-ima
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
+background-color: red;
 
 ##########
 # ITEM PAGE
