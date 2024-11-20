@@ -6,6 +6,7 @@ body {
     @if $base-font-family != "" { font-family: $base-font-family; }
     @if $base-font-size != "" { font-size: $base-font-size; }
     @if $text-color != "" { color: $text-color; }
+backgroud-color: #BEBEBE;
 
 }
 a {
